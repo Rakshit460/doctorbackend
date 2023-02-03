@@ -33,6 +33,6 @@
 - `Github`: `https://github.com/Rakshit460/doctorwebapp`
 
 ## Things to come in next version
--  Currently no login present for webapp hardcoded rakshit is sent in api as a user .
--  All validation scenarios are not covered 
+-  Currently no login present for webapp hardcoded rakshit is sent in api as a user so in upcoming version login will be there
+-  All validation scenarios are not covered . In upcoming version validations will be covered
 
